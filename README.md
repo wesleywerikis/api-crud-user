@@ -22,7 +22,6 @@ Esta é uma aplicação backend desenvolvida em Java usando Spring Boot para cri
     · Criar usuário: Endpoint para criar um novo usuário.
     · Atualizar usuário: Endpoint para atualizar as informações de um usuário existente.
     · Excluir usuário: Endpoint para excluir um usuário existente com base no ID.
-    · Estrutura do Projeto
 
 ## Estrutura do Projeto
 #### O projeto está dividido nas seguintes partes:
